@@ -12,3 +12,7 @@
 
 - PORTD에 풀업 저항으로 스위치 연결
 - PORTA에 풀업 저항으로 LED 연결
+
+
+< 구동 영상 >
+https://blog.naver.com/parksb7445/222340872916 
